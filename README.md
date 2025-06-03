@@ -1,2 +1,30 @@
-# Student-Exam-Score-Predictor
-Student exam score prediction project using lifestyle and habit data from the Kaggle Student Habits vs Academic Performance Dataset. Predicts exam scores with Linear Regression and includes a Streamlit app for easy, interactive use.
+## Dataset
+
+This project uses the **Student Habits vs Academic Performance** dataset, which is publicly available on Kaggle:
+
+[Student Habits vs Academic Performance Dataset](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance)
+
+The dataset includes various features related to student lifestyle habits and their exam scores.
+
+# 🎓 Student Exam Score Predictor
+
+This project predicts a student's exam score based on their lifestyle, habits, and personal attributes using a Linear Regression machine learning model.
+
+---
+
+## Features
+
+- Predict exam score using features like study hours, social media usage, sleep, attendance, mental health, and more.
+- User-friendly web app built with Streamlit for interactive predictions.
+- Scaled and preprocessed features to improve prediction accuracy.
+- Model trained and tested with performance metrics.
+
+---
+
+## How to Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/StudentExamScorePredictor.git
+   cd StudentExamScorePredictor
