@@ -3,6 +3,7 @@
 This project uses the **Student Habits vs Academic Performance** dataset, which is publicly available on Kaggle:
 
 [Student Habits vs Academic Performance Dataset](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance)
+Author: Jayaanta Naath
 
 The dataset includes various features related to student lifestyle habits and their exam scores.
 
@@ -26,5 +27,6 @@ This project predicts a student's exam score based on their lifestyle, habits, a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/StudentExamScorePredictor.git
-   cd StudentExamScorePredictor
+   git clone https://github.com/AdityaJani616/Student-Exam-Score-Predictor.git
+   cd app.py
+   
